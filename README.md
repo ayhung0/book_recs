@@ -11,7 +11,7 @@ Personalized Recommendations: Based on the calculated similarities, the system p
 ## How It Works
 User Input: Enter the book titles you’ve read along with your ratings in the provided text area. Each entry should be on a new line in the format: Book Title Rating (e.g., Frankenstein 4).
 
-You may copy and paste this example:
+To test it out, you may copy and paste this example:
 
 > The Bluest Eye 5
 > 
