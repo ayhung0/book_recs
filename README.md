@@ -74,7 +74,7 @@ Recommendations: The system will provide a list of top book recommendations base
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/ayhung0/book_recs.git
+git clone https://github.com/ayhung0/bookrecs.git
 ```
 
 Navigate to the project directory:
