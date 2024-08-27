@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-books = pd.read_csv('book_collaborative_filtering/books.csv')[['book_id', 'title', 'authors']]
-ratings = pd.read_csv('book_collaborative_filtering/ratings.csv')
+books = pd.read_csv('books.csv')[['book_id', 'title', 'authors']]
+ratings = pd.read_csv('ratings.csv')
 
 # Create dataframe as user_id -1 with my ratings
 my_user_id = -1
