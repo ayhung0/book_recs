@@ -79,7 +79,7 @@ git clone https://github.com/ayhung0/bookrecs.git
 
 Navigate to the project directory:
 ```
-cd book_recs
+cd bookrecs
 ```
 
 Install the required Python packages:
